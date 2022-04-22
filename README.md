@@ -1,4 +1,4 @@
-# ubhacking - easyBid
+# UBHacking - easyBid
 
 You can find source code of this application on below gdrive link as I have exceeded my github space
 [source code](https://drive.google.com/drive/folders/1ELdJlfzdoQ2LP3wAKEkEaKUaVdN1R3Rs?usp=sharing)
